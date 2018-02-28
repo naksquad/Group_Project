@@ -16,9 +16,9 @@ Project: A Software Subsystem of Learning Management System
 
 7.	Apply UML Method 
 
-8	Data Records
+8.	Data Records
 
-9	Graphical User Interface (GUI)
+9. Graphical User Interface (GUI)
 
 10.	Project Report and Items
 
