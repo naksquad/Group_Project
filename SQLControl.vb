@@ -1,15 +1,12 @@
-Imports System.Data.SqlClient
+﻿Imports System.Data.SqlClient
 
 Public Class SQLControl
     Private DBCon As New SqlConnection("Server=DESKTOP-JHVG5RN\SQLEXPRESS01;Database=schoolsystem;Trusted_Connection=True;")
     Private DBCmd As SqlCommand
-    Public SQLDS As DataSet
 
     'DB data
     Public DBDA As SqlDataAdapter
     Public DBDT As DataTable
-
-
 
     'QUERRY PARAMETER PUBLIC so we dont have to create new list on each run 
     Public Params As New List(Of SqlParameter)
@@ -47,13 +44,8 @@ Public Class SQLControl
             'exec command And fill data / new table
 
             DBDT = New DataTable
-            'test
             DBDA = New SqlDataAdapter(DBCmd)
-            SQLDS = New DataSet
-            'test
-            DBDA.Fill(SQLDS)
             RecordCount = DBDA.Fill(DBDT)
-
         Catch ex As Exception
             'capture error
             Execption = "We have query error Error: " & vbNewLine & ex.Message

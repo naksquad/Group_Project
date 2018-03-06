@@ -1,0 +1,15 @@
+C:\Users\bclaw\Documents\Visual Studio 2017\Projects\schoolsystem\schoolsystem\bin\Debug\schoolsystem.exe.config
+C:\Users\bclaw\Documents\Visual Studio 2017\Projects\schoolsystem\schoolsystem\bin\Debug\schoolsystem.exe
+C:\Users\bclaw\Documents\Visual Studio 2017\Projects\schoolsystem\schoolsystem\bin\Debug\schoolsystem.pdb
+C:\Users\bclaw\Documents\Visual Studio 2017\Projects\schoolsystem\schoolsystem\bin\Debug\schoolsystem.xml
+C:\Users\bclaw\Documents\Visual Studio 2017\Projects\schoolsystem\schoolsystem\obj\Debug\schoolsystem.vbprojResolveAssemblyReference.cache
+C:\Users\bclaw\Documents\Visual Studio 2017\Projects\schoolsystem\schoolsystem\obj\Debug\schoolsystem.Form1.resources
+C:\Users\bclaw\Documents\Visual Studio 2017\Projects\schoolsystem\schoolsystem\obj\Debug\schoolsystem.Resources.resources
+C:\Users\bclaw\Documents\Visual Studio 2017\Projects\schoolsystem\schoolsystem\obj\Debug\schoolsystem.student.resources
+C:\Users\bclaw\Documents\Visual Studio 2017\Projects\schoolsystem\schoolsystem\obj\Debug\schoolsystem.vbproj.GenerateResource.Cache
+C:\Users\bclaw\Documents\Visual Studio 2017\Projects\schoolsystem\schoolsystem\obj\Debug\schoolsystem.vbproj.CoreCompileInputs.cache
+C:\Users\bclaw\Documents\Visual Studio 2017\Projects\schoolsystem\schoolsystem\obj\Debug\schoolsystem.exe
+C:\Users\bclaw\Documents\Visual Studio 2017\Projects\schoolsystem\schoolsystem\obj\Debug\schoolsystem.xml
+C:\Users\bclaw\Documents\Visual Studio 2017\Projects\schoolsystem\schoolsystem\obj\Debug\schoolsystem.pdb
+C:\Users\bclaw\Documents\Visual Studio 2017\Projects\schoolsystem\schoolsystem\obj\Debug\schoolsystem.intro_form.resources
+C:\Users\bclaw\Documents\Visual Studio 2017\Projects\schoolsystem\schoolsystem\obj\Debug\schoolsystem.homepage.resources
