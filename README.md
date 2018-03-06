@@ -5,6 +5,8 @@ Project: A Software Subsystem of Learning Management System
 Phase I :
 test pic
 ![alt text](https://imgur.com/a/U1Ayl)
+![img](https://imgur.com/a/U1Ayl)
+https://imgur.com/a/U1Ayl
 
 (2) The techniques your team plans to do in the project. For example, programming language, IDE, data storage and retrieval, GUI generation, and so forth.
 
