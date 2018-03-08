@@ -3,24 +3,6 @@
 ![use cases](https://user-images.githubusercontent.com/10368701/37134243-49dac584-225d-11e8-845d-7f51868d0725.PNG)
 
 
-1.	Project Description
+E/R DIAGRAM
 
-2.	Requirements
-
-3.	Analysis
-
-4.	System Development Life Cycle
-
-5.	Team Work
-
-6.	Version Control
-
-7.	Apply UML Method 
-
-8.	Data Records
-
-9. Graphical User Interface (GUI)
-
-10.	Project Report and Items
-
-12.	Submit a project report to answer the following questions?
+![capture](https://user-images.githubusercontent.com/10368701/37136234-5581552a-2266-11e8-8ee5-a3ebbfe48fa6.PNG)
