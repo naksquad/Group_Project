@@ -1,22 +1,6 @@
-# Group_Project
+## Group_Project
 
-Project: A Software Subsystem of Learning Management System
-
-Phase I :
-test pic
-![alt text](https://imgur.com/a/U1Ayl)
-![img](https://imgur.com/a/U1Ayl)
-https://imgur.com/a/U1Ayl
-
-(2) The techniques your team plans to do in the project. For example, programming language, IDE, data storage and retrieval, GUI generation, and so forth.
-
-(3) GitHub repo demonstration of your team project.
-
-(4) Requirement artifacts demonstration. For example, UML use case diagrams.
-
-(5) You can use your own computer for demonstration. VGA or HDLI cables are provided in the classroom.
-
-(6) If you have not joined in a team, you will find opportunity to build a team or join in one team in the class.
+![use cases](https://user-images.githubusercontent.com/10368701/37134243-49dac584-225d-11e8-845d-7f51868d0725.PNG)
 
 
 1.	Project Description
