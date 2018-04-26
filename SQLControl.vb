@@ -1,7 +1,7 @@
 ﻿Imports System.Data.SqlClient
 
 Public Class SQLControl
-    Private DBCon As New SqlConnection("Server=DESKTOP-JHVG5RN\SQLEXPRESS01;Database=schoolsystem;Trusted_Connection=True;")
+    Private DBCon As New SqlConnection("Server=DESKTOP-JHVG5RN\SQLEXPRESS01;Database=lecole;Trusted_Connection=True;")
     Private DBCmd As SqlCommand
 
     'DB data

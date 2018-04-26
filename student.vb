@@ -5,6 +5,9 @@
     Public Sub LaodGrid(Optional Query As String = "")
         If Query = "" Then
             SQL.ExecQuery("SELECT * FROM student_table;")
+            'SQL.ExecQuery("SELECT * FROM course_table;")
+            'SQL.ExecQuery("SELECT * FROM room_table;")
+
         Else
             SQL.ExecQuery(Query)
         End If
@@ -42,7 +45,7 @@
         Me.WindowState = FormWindowState.Maximized
         'LODING FIRST FORM WILL ADDD USER PORTAL FIRST
         ' MdiParent = Form1
-        Form1.Show()
+        'Form1.Show()
         'LOAD THE CHILD
         LaodGrid()
         'LOAD COMBO BOX TEST WITH CLASS ID
@@ -56,5 +59,13 @@
 
     Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
         Me.Close()
+    End Sub
+
+    Private Sub DG1_CellContentClick(sender As Object, e As DataGridViewCellEventArgs) Handles DG1.CellContentClick
+
+    End Sub
+
+    Private Sub TxtSearch_TextChanged(sender As Object, e As EventArgs) Handles TxtSearch.TextChanged
+
     End Sub
 End Class
