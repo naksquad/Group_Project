@@ -1,3 +1,6 @@
+## Menbers
+Team Member = Bright Wadja(chief programmer), Syed Asif Zaidi , Sebastian Sanchez (Programmer/Designer), Fatin Ahmed (Data/Database Administrator)
+
 ## use cases
 
 ![use cases](https://user-images.githubusercontent.com/10368701/37134243-49dac584-225d-11e8-845d-7f51868d0725.PNG)
